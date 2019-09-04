@@ -28,5 +28,5 @@ end
 
 def using_insert
   array = [1, 2, 3, 4]
-  array.insert(3, deadpool)
+  array.insert(3, "deadpool")
 end
