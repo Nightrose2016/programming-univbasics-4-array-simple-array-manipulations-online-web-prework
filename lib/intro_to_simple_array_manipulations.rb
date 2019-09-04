@@ -27,5 +27,6 @@ def using_concat (array, element)
 end
 
 def using_insert(array, deadpool)
+  array = [1,2,3,4,5,6,7]
   array.insert("deadpool")
 end
