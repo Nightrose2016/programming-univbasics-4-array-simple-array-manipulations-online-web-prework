@@ -27,5 +27,5 @@ def using_concat (array, element)
 end
 
 def using_insert(array, deadpool)
-  array.insert(deadpool)
+  array.insert("deadpool")
 end
